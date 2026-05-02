@@ -41,5 +41,5 @@ equiv, adjectival = pshs_equivalent(q4)
 print("Final Grade:", q4)
 print("Equivalent:", equiv)
 print("Adjectival Rating:", adjectival)
-        return "5.00", "FAILED"
+return "5.00", "FAILED"
 
